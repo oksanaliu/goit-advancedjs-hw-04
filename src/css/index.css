@@ -84,11 +84,10 @@ body {
 }
 
 .info {
-    padding: 1rem;
+    padding: 5px, 0;
     font-size: 0.9rem;
     color: #555;
     text-align: left;
-    display: flex;
     flex-direction: column;
     align-items: flex-start;
 }
